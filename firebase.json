@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "target": "ton-foundation",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
