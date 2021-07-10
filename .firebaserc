@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ton-labs": {
+      "hosting": {
+        "ton-foundation": [
+          "ton-foundation"
+        ]
+      }
+    }
+  }
+}
